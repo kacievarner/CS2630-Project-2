@@ -1,0 +1,6 @@
+*~
+tests/alu.circ
+tests/regfile.circ
+TEST_LOG
+*pyc
+.DS_STORE
